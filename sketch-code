@@ -1,4 +1,5 @@
-//arduino-solar-panel
+#define PIN_PHOTO_SENSOR A0 
+#define PIN_PHOTO_SENSOR A1 
 #include <Servo.h>  
  
 Servo servoHorisontal;
@@ -11,22 +12,22 @@ const int photoSensorA3 = A3;
 
 int angle; 
  
-void setup() {
+void setup() { 
   
   servoHorisontal.attach(11);
   servoVertical.attach(10);
-
+  servoVertical.write(0);
+  servoHorisontal.write(0);
 } 
  
 void loop() { 
-  int val = analogRead(PIN_PHOTO_SENSOR); 
-  if (val < 500)  //  
-   { 
-   servo1.write(0); // ставим угол поворота под 0
-   delay(2000); // ждем 2 секунды
-  }  
-  else{
-    servo1.write(90); // ставим угол поворота под 90
-   delay(2000); // ждем 2 секунды
-    }
+ 
+  photoSensorA0 = analogRead(A0);
+  photoSensorA1 = analogRead(A1);
+  photoSensorA2 = analogRead(A2);
+  photoSensorA3 = analogRead(A3);
+  
+  
+  
+  
   }  
