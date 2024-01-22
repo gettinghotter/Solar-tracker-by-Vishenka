@@ -12,5 +12,5 @@ This project is about rotating system that calculate light's position and rotate
 
 Vishenka team
 
-- [@kiyogane](https://www.github.com/kiyogane) Developer, 3d-model
+- [@kiyogane](https://github.com/gettinghotter) Developer, 3d-model
 
