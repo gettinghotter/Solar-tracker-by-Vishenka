@@ -1,14 +1,15 @@
 
-# Solar panel rotating system
+# Солнечная панель с функцией поворота
 
-This project is about rotating system that calculate light's position and rotates to source of light. The system is automatic, so you don't have to make unnecessary actions. The code is written on C++, 3d models are made on KOMPAC app and printed on 3d printer.
+Данное устройство автономно движется за самым ярким источником света, попадающее в радиус охвата компонентов устройства. Модель устройства реализована на Arduino. Использованы специальные моторчики для реализации движения механизма - сервоприводы, также использованы датчики света - фоторезисторы. Фоторезисторы отвечают за сбор света, далее данные обрабатываются в программе механизма, и за счет сервоприводов поверхность солнечной панели поворачивается в сторону, где свет преобладает. Данная конструкция рассчитана таким образом, что она позволяет автономно получать солнечную энергию, считывать напряжение получаемой энергии и полностью автоматизировать процесс получения электроэнергии. Схема создана таким образом, что она тратит гораздо меньше энергии на поворот панели, чем получает солнечную энергию солнечной панелью.
+## Скриншоты
 
-## Screenshots
+<a href="https://ibb.co/Xkd2M1x"><img src="https://i.ibb.co/zHLnDpV/photo-5348388788365283581-y.jpg" alt="photo-5348388788365283581-y" border="0"></a>
+<a href="https://ibb.co/6WMDDkW"><img src="https://i.ibb.co/RDFQQqD/photo-5348388788365283583-y.jpg" alt="photo-5348388788365283583-y" border="0"></a>
+<a href="https://ibb.co/gMbVqTq"><img src="https://i.ibb.co/1fY6yqy/photo-5348388788365283580-y.jpg" alt="photo-5348388788365283580-y" border="0"></a>
+<a href="https://ibb.co/Lkyc4Tg"><img src="https://i.ibb.co/JBTGXYp/photo-5348388788365283578-y.jpg" alt="photo-5348388788365283578-y" border="0"></a>
 
-![App Screenshot](https://ltdfoto.ru/images/2024/01/22/imagee68ccc5c6143defe.png)
-
-
-## Authors
+## Авторы
 
 Vishenka team
 
