@@ -14,7 +14,7 @@
 
 Vishenka team
 
-- [@kiyogane](https://github.com/gettinghotter) [tg](https://t.me/kiyogane) Программист, 3д дизайнер
+- [@kiyogane](https://github.com/gettinghotter) или [телеграм](https://t.me/kiyogane) Программист, 3д дизайнер
 - [@muhomrch](https://t.me/muhomrch) Инженер-конструктор
 - [@knm2007](https://t.me/knm2007) Инженер-конструктор
 - [@refckk](https://t.me/refckk)  Продакт менеджер
