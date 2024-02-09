@@ -14,9 +14,9 @@
 
 Vishenka team
 
-- [@kiyogane](https://github.com/gettinghotter) Программист, 3д дизайнер
-- [@muhomrch](https://web.telegram.org/k/#@muhomrch) Инженер-конструктор
-- [@knm2007](https://web.telegram.org/k/#@knm2007) Инженер-конструктор
-- [@refckk](https://web.telegram.org/k/#@refckk)  Продакт менеджер
-- [@TraByIIIka](https://web.telegram.org/k/#@TraByIIIka) Капитан “Вишенки”, программист.
+- [@kiyogane](https://github.com/gettinghotter) [tg](https://t.me/kiyogane) Программист, 3д дизайнер
+- [@muhomrch](https://t.me/muhomrch) Инженер-конструктор
+- [@knm2007](https://t.me/knm2007) Инженер-конструктор
+- [@refckk](https://t.me/refckk)  Продакт менеджер
+- [@TraByIIIka](https://t.me/TraByIIIka) Капитан “Вишенки”, программист.
 
